@@ -1,4 +1,4 @@
-# Oxygen Hide Library #
+# Oxygen Hide Builder Elements #
 **Contributors:** David Browne  
 **Tags:** oxygen  
 **Requires at least:** Oxygen 2.0
