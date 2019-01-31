@@ -19,5 +19,8 @@ Note: I'm not recommending giving clients access to Oxygen builder. This plugin 
 
 ## Changelog ##
 
+### 1.0.1 - Sept 19, 2018 ###
+* Updated CSS to be more future proof by targeting element by attribute
+
 ### 1.0.0 - Sept 19, 2018 ###
 * Initial Release
