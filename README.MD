@@ -7,7 +7,7 @@
 
 This plugin hides the Library of design sets in Oxygen & also access to the code block. (if you're wanting to give clients access to builder and need to remove these things)
 
-Note: I'm not recommending giving clients access to Oxygen builder. This plugin was created because somebody was asking how to do it in the facebook group, it can be used to simply learn how to hide unwanted items in the builder.
+Note: I'm not recommending giving clients access to Oxygen builder. This plugin was created because somebody was asking how to do it in the [Oxygen Facebook group](https://www.facebook.com/groups/1626639680763454/), it can be used to simply learn how to hide unwanted items in the builder.
  
 
 ## Installation ##
