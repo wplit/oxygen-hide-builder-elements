@@ -12,7 +12,7 @@ Note: I'm not recommending giving clients access to Oxygen builder. This plugin 
 
 ## Installation ##
 
-1. [Download the plugin here.](https://github.com/wplit/oxygen-hide-library/archive/master.zip)
+1. [Download the plugin here.](https://github.com/wplit/oxygen-hide-builder-elements/archive/master.zip)
 2. Go to Plugins > Add New in your WordPress admin. Click on `Upload Plugin` and browse for the zip file.
 3. Activate the plugin. There are no settings.
 
