@@ -1,7 +1,6 @@
 /* Hide Library Tab
 ------------------------------------------------ */
-
-.oxygen-add-section-accordion:nth-child(5) {
+.oxygen-add-section-accordion[ng-click="switchTab('components', 'library-');"] {
   display: none;
 }
 
