@@ -1,2 +1,6 @@
-/* Add your styles here
+/* Hide Library from Builder
 ------------------------------------------------ */
+
+.oxygen-add-section-accordion:nth-child(5) {
+  display: none;
+}
