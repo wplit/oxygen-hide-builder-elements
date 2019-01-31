@@ -5,7 +5,8 @@
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin hides the Library of design sets in Oxygen & also access to the code block. (if you're wanting to give clients access to builder and need to hide the design sets)
+This plugin hides the Library of design sets in Oxygen & also access to the code block. (if you're wanting to give clients access to builder and need to remove these things)
+
 Note: I'm not recommending giving clients access to Oxygen builder. This plugin was created because somebody was asking how to do it in the facebook group, it can be used to simply learn how to hide unwanted items in the builder.
  
 
