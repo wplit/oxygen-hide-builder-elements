@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name:	Oxygen Hide
+Plugin Name:	Oxygen Hide Library
 Plugin URI:		https://example.com
-Description:	My custom functions.
+Description:	Removes library from Oxygen Builder
 Version:		1.0.0
 Author:			Your Name
 Author URI:		https://example.com
