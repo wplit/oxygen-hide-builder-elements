@@ -1,6 +1,13 @@
-/* Hide Library from Builder
+/* Hide Library Tab
 ------------------------------------------------ */
 
 .oxygen-add-section-accordion:nth-child(5) {
+  display: none;
+}
+
+/* Hide Code Block
+------------------------------------------------ */
+
+.oxygen-add-section-element[data-searchid="code_block"] { 
   display: none;
 }
